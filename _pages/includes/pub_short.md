@@ -1,5 +1,5 @@
 
-# 📚 Selected publications
+# 📚 Selected Publications
 
 Check all my papers at [google scholar]([https://rayeren.github.io](https://scholar.google.com/citations?user=7j2-eIIAAAAJ&hl=en)).
 

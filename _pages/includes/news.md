@@ -6,4 +6,7 @@
 - *2023.01*: Three papers are accepted by ICLR 2023!
 - *2023.01*: I join [Bytedance AI Lab, Speech & Audio Team](https://ailab.bytedance.com/) <img src='./images/tiktok.png' style='width: 6em;'> as a research scientist in Singapore!
 - *2022.12*: 🎉 My [google scholar](https://scholar.google.com/citations?user=4FA6C0AAAAAJ) citations have exceeded 2000!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
+- *2021.10*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
+
+- *2022.06*: [DeStripe](https://arxiv.org/abs/2206.13419) early accepted at [MICCAI 2022](https://conferences.miccai.org/2022/en/)!
+- *2021.10*: Ph.D. on board at TUM!

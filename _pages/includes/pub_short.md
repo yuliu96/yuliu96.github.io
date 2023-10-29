@@ -1,10 +1,10 @@
 
-# 💻 Selected Research Papers
+# 💻 Selected publications
 
-My full paper list is shown at [my personal homepage](https://rayeren.github.io).
+Check all My papers at [google scholar]([https://rayeren.github.io](https://scholar.google.com/citations?user=7j2-eIIAAAAJ&hl=en)).
 
-#### 🎙 Audio and Speech Processing
-- ``ICLR 2021`` [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558), **Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+## 🔬 Microscopy image analysis
+- ``MICCAI 2023`` [BigFUSE: Global Context-Aware Image Fusion in Dual-View Light-Sheet Fluorescence Microscopy with Image Formation Prior]([https://arxiv.org/abs/2006.04558](https://arxiv.org/abs/2309.01865)), **Yu Liu**, Gesine Muller, Nassir Navab, Carsten Marr, Jan Huisken, Tingying Peng
 - ``NeurIPS 2019`` [FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf), **Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
 - ``NeurIPS 2021`` [PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166), **Yi Ren**, Jinglin Liu, Zhou Zhao, [**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech)
 - ``AAAI 2022`` [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446), Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao, [**Project**](https://diffsinger.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=DiffSpeech+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social&label=DiffSinger+Stars)](https://github.com/MoonInTheRiver/DiffSinger) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/DiffSpeech)

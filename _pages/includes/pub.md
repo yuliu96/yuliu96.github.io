@@ -1,3 +1,3 @@
 
-# 💻 Featured projects
+# 💻 Featured Projects
 
